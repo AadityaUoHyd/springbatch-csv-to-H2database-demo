@@ -1,4 +1,4 @@
-# Spring Boot Batch demo where csv file date pull to H2-database.
+# Spring Boot Batch demo where csv file data pull to H2-database.
 
 #First run it as spring boot program.
 
